@@ -1,10 +1,10 @@
 # 💫 Hi 👋, I'm Aarij Hussain
 
-** AI Engineer | Generative AI Developer | AI Agents & AI Automations Enthusiast from Pakistan 🇵🇰**
+**AI Engineer | Generative AI Developer | AI Agents & AI Automations Enthusiast from Pakistan 🇵🇰**
 
 🚀 Passionate about building practical AI applications, intelligent agents, and LLM-powered solutions that solve real-world problems.
 
-📩 **Open to AI Internships, Junior AI Engineer Roles, Collaborations, and Exciting Projects!**
+📩 **Open to Collaborations, and Exciting Projects!**
 
 - 🔭 **I'm currently working on:** An Ensemble Multimodal AI Sales Agent with conversational AI, voice interaction, and RAG capabilities.
 - 🌱 **I'm currently learning:** Advanced AI engineering, improving LLM integration, and deploying intelligent AI agents for real-world use cases.
